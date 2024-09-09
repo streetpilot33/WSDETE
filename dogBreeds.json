@@ -1,0 +1,56 @@
+[
+  {
+    "breedId": "B101",
+    "breedName": "Golden Retriever",
+    "description": "Friendly, intelligent, and devoted. Great family dog.",
+    "size": "Large",
+    "lifespan": "10-12 years",
+    "origin": "Scotland",
+    "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B102",
+    "breedName": "Beagle",
+    "description": "Merry, curious, and friendly. Great for families.",
+    "size": "Medium",
+    "lifespan": "12-15 years",
+    "origin": "United Kingdom",
+    "imageUrl": "https://dog.ceo/api/img/beagle/n02088364_4005.jpg"
+  },
+  {
+    "breedId": "B103",
+    "breedName": "German Shepherd",
+    "description": "Confident, courageous, and smart. Excellent working dog.",
+    "size": "Large",
+    "lifespan": "9-13 years",
+    "origin": "Germany",
+    "imageUrl": "https://dog.ceo/api/img/germanshepherd/n02106662_100.jpg"
+  },
+  {
+    "breedId": "B104",
+    "breedName": "Poodle",
+    "description": "Active, proud, and very smart. Comes in three sizes.",
+    "size": "Small to Large",
+    "lifespan": "10-18 years",
+    "origin": "France",
+    "imageUrl": "https://dog.ceo/api/img/poodle/n02113799_6004.jpg"
+  },
+  {
+    "breedId": "B105",
+    "breedName": "Bulldog",
+    "description": "Calm, courageous, and friendly. A muscular breed.",
+    "size": "Medium",
+    "lifespan": "8-10 years",
+    "origin": "United Kingdom",
+    "imageUrl": "https://dog.ceo/api/img/bulldog/n02096585_8004.jpg"
+  },
+  {
+    "breedId": "B106",
+    "breedName": "Siberian Husky",
+    "description": "Loyal, outgoing, and mischievous. Great for active owners.",
+    "size": "Medium to Large",
+    "lifespan": "12-14 years",
+    "origin": "Siberia",
+    "imageUrl": "https://dog.ceo/api/img/husky/n02110185_100.jpg"
+  }
+]

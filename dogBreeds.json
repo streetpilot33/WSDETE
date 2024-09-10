@@ -1,53 +1,24 @@
 [
-  {
-    "breedId": "B101",
-    "breedName": "Golden Retriever",
-    "description": "Friendly, intelligent, and devoted. Great family dog.",
-    "size": "Large",
-    "lifespan": "10-12 years",
-    "origin": "Scotland",
-   
-  },
-  {
-    "breedId": "B102",
-    "breedName": "Beagle",
-    "description": "Merry, curious, and friendly. Great for families.",
-    "size": "Medium",
-    "lifespan": "12-15 years",
-    "origin": "United Kingdom",
-   
-  },
-  {
-    "breedId": "B103",
-    "breedName": "German Shepherd",
-    "description": "Confident, courageous, and smart. Excellent working dog.",
-    "size": "Large",
-    "lifespan": "9-13 years",
-    "origin": "Germany",
-   
-  },
-  {
-    "breedId": "B104",
-    "breedName": "Poodle",
-    "description": "Active, proud, and very smart. Comes in three sizes.",
-    "size": "Small to Large",
-    "lifespan": "10-18 years",
-    "origin": "France",
-  },
-  {
-    "breedId": "B105",
-    "breedName": "Bulldog",
-    "description": "Calm, courageous, and friendly. A muscular breed.",
-    "size": "Medium",
-    "lifespan": "8-10 years",
-    "origin": "United Kingdom",
-  },
-  {
-    "breedId": "B106",
-    "breedName": "Siberian Husky",
-    "description": "Loyal, outgoing, and mischievous. Great for active owners.",
-    "size": "Medium to Large",
-    "lifespan": "12-14 years",
-    "origin": "Siberia",
-  }
+    {
+        "breedName": "afghan hound",
+        "description": "The Afghan Hound is a large, elegant dog known for its thick, silky coat.",
+        "size": "Large",
+        "lifespan": "12-14 years",
+        "origin": "Afghanistan"
+    },
+    {
+        "breedName": "golden retriever",
+        "description": "Golden Retrievers are friendly, intelligent, and devoted.",
+        "size": "Medium to Large",
+        "lifespan": "10-12 years",
+        "origin": "Scotland"
+    },
+    {
+        "breedName": "beagle",
+        "description": "Beagles are curious, friendly, and great with kids.",
+        "size": "Small to Medium",
+        "lifespan": "12-15 years",
+        "origin": "United Kingdom"
+    }
+    // Add more breeds as needed
 ]

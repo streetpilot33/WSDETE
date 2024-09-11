@@ -42,7 +42,7 @@
     "size": "Large",
     "lifespan": "9-13 years",
     "origin": "Germany",
-    "imageUrl": "https://images.dog.ceo/breeds/shiba/shiba-15.jpg"
+    "imageUrl": "https://cdn.britannica.com/79/232779-050-6B0411D7/German-Shepherd-dog-Alsatian.jpg"
   },
   {
     "breedId": "B106",
@@ -51,6 +51,6 @@
     "size": "Small",
     "lifespan": "12-15 years",
     "origin": "Japan",
-    "imageUrl": "https://images.dog.ceo/breeds/malinois/n02105162_824.jpg"
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAe53hssee1n4clajKcxlZqy9CYo5n89LqA&s"
   }
 ]

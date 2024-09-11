@@ -1,24 +1,56 @@
 [
-    {
-        "breedName": "afghan hound",
-        "description": "The Afghan Hound is a large, elegant dog known for its thick, silky coat.",
-        "size": "Large",
-        "lifespan": "12-14 years",
-        "origin": "Afghanistan"
-    },
-    {
-        "breedName": "golden retriever",
-        "description": "Golden Retrievers are friendly, intelligent, and devoted.",
-        "size": "Medium to Large",
-        "lifespan": "10-12 years",
-        "origin": "Scotland"
-    },
-    {
-        "breedName": "beagle",
-        "description": "Beagles are curious, friendly, and great with kids.",
-        "size": "Small to Medium",
-        "lifespan": "12-15 years",
-        "origin": "United Kingdom"
-    }
-    // Add more breeds as needed
+  {
+    "breedId": "B101",
+    "breedName": "Golden Retriever",
+    "description": "Friendly, intelligent, and devoted. Great family dog.",
+    "size": "Large",
+    "lifespan": "10-12 years",
+    "origin": "Scotland",
+    "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+  },
+  {
+    "breedId": "B102",
+    "breedName": "Beagle",
+    "description": "Curious, friendly, and merry. Known for its great sense of smell.",
+    "size": "Medium",
+    "lifespan": "12-15 years",
+    "origin": "United Kingdom",
+    "imageUrl": "https://dog.ceo/api/img/beagle/n02088364_11173.jpg"
+  },
+  {
+    "breedId": "B103",
+    "breedName": "Poodle",
+    "description": "Active, proud, and very smart. Excellent in competitions.",
+    "size": "Medium",
+    "lifespan": "12-15 years",
+    "origin": "Germany, France",
+    "imageUrl": "https://dog.ceo/api/img/poodle-standard/n02113712_1416.jpg"
+  },
+  {
+    "breedId": "B104",
+    "breedName": "Bulldog",
+    "description": "Calm, courageous, and friendly. Loyal and affectionate family dog.",
+    "size": "Medium",
+    "lifespan": "8-10 years",
+    "origin": "United Kingdom",
+    "imageUrl": "https://dog.ceo/api/img/bulldog/n02096585_1167.jpg"
+  },
+  {
+    "breedId": "B105",
+    "breedName": "German Shepherd",
+    "description": "Confident, courageous, and smart. Often used in military and police roles.",
+    "size": "Large",
+    "lifespan": "9-13 years",
+    "origin": "Germany",
+    "imageUrl": "https://dog.ceo/api/img/germanshepherd/n02106662_11738.jpg"
+  },
+  {
+    "breedId": "B106",
+    "breedName": "Shiba Inu",
+    "description": "Alert, active, and independent. Known for its spirited personality.",
+    "size": "Small",
+    "lifespan": "12-15 years",
+    "origin": "Japan",
+    "imageUrl": "https://dog.ceo/api/img/shiba/n02112350_12317.jpg"
+  }
 ]

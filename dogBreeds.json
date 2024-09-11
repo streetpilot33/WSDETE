@@ -24,7 +24,7 @@
     "size": "Medium",
     "lifespan": "12-15 years",
     "origin": "Germany, France",
-    "imageUrl": "https://dog.ceo/api/img/poodle-standard/n02113712_1416.jpg"
+    "imageUrl": "https://images.dog.ceo/breeds/collie-border/n02106166_2595.jpg"
   },
   {
     "breedId": "B104",
@@ -33,7 +33,7 @@
     "size": "Medium",
     "lifespan": "8-10 years",
     "origin": "United Kingdom",
-    "imageUrl": "https://dog.ceo/api/img/bulldog/n02096585_1167.jpg"
+    "imageUrl": "https://images.dog.ceo/breeds/akita/512px-Akita_inu.jpg"
   },
   {
     "breedId": "B105",

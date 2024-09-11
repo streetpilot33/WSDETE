@@ -42,7 +42,7 @@
     "size": "Large",
     "lifespan": "9-13 years",
     "origin": "Germany",
-    "imageUrl": "https://dog.ceo/api/img/germanshepherd/n02106662_11738.jpg"
+    "imageUrl": "https://images.dog.ceo/breeds/shiba/shiba-15.jpg"
   },
   {
     "breedId": "B106",
@@ -51,6 +51,6 @@
     "size": "Small",
     "lifespan": "12-15 years",
     "origin": "Japan",
-    "imageUrl": "https://dog.ceo/api/img/shiba/n02112350_12317.jpg"
+    "imageUrl": "https://images.dog.ceo/breeds/malinois/n02105162_824.jpg"
   }
 ]
